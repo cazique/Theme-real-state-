@@ -1,0 +1,47 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+
+.widefat .column-featured-image {
+    width: 100px;
+}
+
+.csf-field-image_select .csf--active figure {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.csf-field-date input,
+.csf-field-select select {
+    width: 50%;
+}
+
+.csf-field-text [data-depend-id="_property_video"] {
+    width: 100%;
+}
+
+.menu-icon-luxus_content_block,
+.menu-icon-property,
+.menu-icon-agency,
+.menu-icon-agent {
+    background: #111111;
+}
+
+table.wp-list-table .column-product_type {
+    width: 75px;
+}
+
+.column-shortcode input[type=text]{
+    width:250px;
+    background: #f7f7ff;
+}
+
+div#luxus_content_block_type p {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 14px;
+    border-bottom: 1px solid #dedede;  
+}

@@ -1,0 +1,13 @@
+.sl-widget-icon {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: .8;
+    transition: 0.3s;
+}
+.elementor-element:hover .sl-widget-icon {
+    opacity: 1;
+    transition: 0.3s;
+}

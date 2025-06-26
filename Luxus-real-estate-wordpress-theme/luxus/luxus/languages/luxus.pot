@@ -1,0 +1,2087 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: luxus\n"
+"POT-Creation-Date: 2024-05-20 16:18+0500\n"
+"PO-Revision-Date: 2022-08-04 20:26+0500\n"
+"Last-Translator: \n"
+"Language-Team: wplistingthemes.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;_nx;_n_noop;_nx_noop;"
+"translate_nooped_plural;number_format_i18n;date_i18n;esc_html__;esc_html_x;"
+"esc_attr__;esc_attr_e;esc_attr_x;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:18 template-parts/content-none.php:43
+msgid "404"
+msgstr ""
+
+#: 404.php:19
+msgid "PAGE NOT FOUND!"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"Oops! The page you are looking for does not exist. It might have been moved "
+"or deleted."
+msgstr ""
+
+#: 404.php:24
+msgid "Back To Home Page"
+msgstr ""
+
+#: comments.php:15
+msgid ""
+"This post is password protected. Enter the password to view the comments."
+msgstr ""
+
+#: comments.php:25
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:25
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:25
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:35
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: inc/class-elementor-widgets.php:98
+msgid "Luxus Widgets"
+msgstr ""
+
+#: inc/comments-template.php:32
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/comments-template.php:46
+msgid "Name *"
+msgstr ""
+
+#: inc/comments-template.php:48
+msgid "Email *"
+msgstr ""
+
+#: inc/comments-template.php:60
+msgid "Write your comment!"
+msgstr ""
+
+#: inc/demo-content.php:22
+msgid ""
+"After you import this demo, you will have to setup the slider separately."
+msgstr ""
+
+#: inc/enqueue-scripts-styles.php:14 inc/enqueue-scripts-styles.php:20
+msgid "on"
+msgstr ""
+
+#: inc/template-functions.php:105
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/template-functions.php:113
+msgid "Dashboard Menu"
+msgstr ""
+
+#: inc/template-functions.php:141
+msgid "Sidebar"
+msgstr ""
+
+#: inc/template-functions.php:143 inc/template-functions.php:154
+#: inc/template-functions.php:164 inc/template-functions.php:174
+#: inc/template-functions.php:184
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/template-functions.php:152
+msgid "Footer Widget 1"
+msgstr ""
+
+#: inc/template-functions.php:162
+msgid "Footer Widget 2"
+msgstr ""
+
+#: inc/template-functions.php:172
+msgid "Footer Widget 3"
+msgstr ""
+
+#: inc/template-functions.php:182
+msgid "Footer Widget 4"
+msgstr ""
+
+#: inc/template-functions.php:216
+msgid "Home"
+msgstr ""
+
+#: inc/template-functions.php:363
+msgid "Sending user info, please wait ..."
+msgstr ""
+
+#: inc/template-functions.php:388
+msgid "Wrong username or password."
+msgstr ""
+
+#: inc/template-functions.php:390
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: inc/template-functions.php:420
+msgid "strong blue"
+msgstr ""
+
+#: inc/template-functions.php:425
+msgid "light grayish blue"
+msgstr ""
+
+#: inc/template-functions.php:430
+msgid "very light gray"
+msgstr ""
+
+#: inc/template-functions.php:435
+msgid "very dark gray"
+msgstr ""
+
+#: inc/template-functions.php:550
+msgid "User Login"
+msgstr ""
+
+#: inc/template-functions.php:554
+msgid "johndoe"
+msgstr ""
+
+#: inc/template-functions.php:555
+msgid "Username*"
+msgstr ""
+
+#: inc/template-functions.php:558
+msgid "**********"
+msgstr ""
+
+#: inc/template-functions.php:559
+msgid "Password*"
+msgstr ""
+
+#: inc/template-functions.php:562
+#: inc/theme-options/sections/header-settings.php:326
+#: inc/widgets/user-login.php:101 inc/widgets/user-login.php:355
+#: template-parts/header/header-classic.php:118
+msgid "Login"
+msgstr ""
+
+#: inc/template-functions.php:565
+msgid "Lost your password?"
+msgstr ""
+
+#: inc/template-functions.php:569
+msgid "Don't have an account?"
+msgstr ""
+
+#: inc/template-functions.php:569
+msgid "Sign Up"
+msgstr ""
+
+#: inc/template-functions.php:622 inc/woocommerce-init.php:86
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: inc/template-functions.php:638
+msgid "Rating"
+msgstr ""
+
+#: inc/template-functions.php:666
+msgid ""
+"Error: You did not add a rating. Hit the Back button on your Web browser and "
+"resubmit your comment with a rating."
+msgstr ""
+
+#: inc/template-functions.php:685
+msgid "Search:"
+msgstr ""
+
+#: inc/template-functions.php:686
+msgid "Search ..."
+msgstr ""
+
+#: inc/template-functions.php:687
+msgid "Search"
+msgstr ""
+
+#: inc/template-functions.php:940
+msgid "Luxus Icons"
+msgstr ""
+
+#: inc/template-styles.php:20
+#: inc/theme-options/sections/general-settings.php:14
+msgid "Theme Color"
+msgstr ""
+
+#: inc/template-styles.php:32
+#: inc/theme-options/sections/general-settings.php:22
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/template-styles.php:44
+#: inc/theme-options/sections/general-settings.php:30
+msgid "Light Color"
+msgstr ""
+
+#: inc/template-styles.php:56
+#: inc/theme-options/sections/general-settings.php:38
+msgid "Dark Color"
+msgstr ""
+
+#: inc/template-styles.php:68
+#: inc/theme-options/sections/general-settings.php:46
+#: inc/widgets/info-box.php:1032 inc/widgets/info-box.php:1120
+#: inc/widgets/pricing-table.php:827 inc/widgets/pricing-table.php:864
+#: inc/widgets/pricing-table.php:938 inc/widgets/pricing-table.php:961
+#: inc/widgets/pricing-table.php:1107 inc/widgets/pricing-table.php:1195
+#: inc/widgets/text-image.php:1001 inc/widgets/text-image.php:1089
+msgid "Text Color"
+msgstr ""
+
+#: inc/template-styles.php:80
+#: inc/theme-options/sections/general-settings.php:54
+msgid "Button Color"
+msgstr ""
+
+#: inc/template-styles.php:92
+#: inc/theme-options/sections/general-settings.php:62
+msgid "Button Hover Color"
+msgstr ""
+
+#: inc/template-tags.php:32
+#, php-format
+msgid "Tagged: %1$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:345
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:361
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:379
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:384
+msgid "Begin installing plugin"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:389
+msgid "Begin updating plugin"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+msgid "Begin activating plugin"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:400
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3315
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3107
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:405
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:407
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:409
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:620
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:621
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:739
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1046
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1046
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1056
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1056
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1247
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3103
+msgid "and"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2116
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2425
+msgid "Required"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2428
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2444
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2447
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2450
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2467
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2471
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2473
+msgid "Active"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2479
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2485
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2494
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2540
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2544
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2552
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2634
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2642
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2650
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2662
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2685
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2699
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2700
+msgid "Source"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2701
+msgid "Type"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2705
+msgid "Version"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2706
+msgid "Status"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2755
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2760
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2766
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2838
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2871
+msgid "Install"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2877
+msgid "Update"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2880
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2911
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2913
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2954
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2956
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3063
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3089
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3314
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3659
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3662
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3664
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3668
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3670
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3671
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3673
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3676
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3678
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3679
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3681
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3686
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3686
+msgid "Hide Details"
+msgstr ""
+
+#: inc/theme-options/page-options.php:10
+#: inc/theme-options/sections/header-settings.php:7
+msgid "Classic Header"
+msgstr ""
+
+#: inc/theme-options/page-options.php:42
+#: inc/theme-options/sections/footer-settings.php:7
+msgid "Classic Footer"
+msgstr ""
+
+#: inc/theme-options/page-options.php:78
+msgid "Custom Options"
+msgstr ""
+
+#: inc/theme-options/page-options.php:85
+#: inc/theme-options/sections/general-settings.php:7
+msgid "General Settings"
+msgstr ""
+
+#: inc/theme-options/page-options.php:92 inc/theme-options/page-options.php:93
+msgid "Select Header"
+msgstr ""
+
+#: inc/theme-options/page-options.php:102
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/theme-options/page-options.php:110
+#: inc/theme-options/sections/header-settings.php:115
+#: inc/theme-options/sections/header-settings.php:494
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/theme-options/page-options.php:119
+msgid "Menu Color"
+msgstr ""
+
+#: inc/theme-options/page-options.php:128
+#: inc/theme-options/sections/header-settings.php:179
+msgid "Active Menu Color"
+msgstr ""
+
+#: inc/theme-options/page-options.php:137
+#: inc/theme-options/sections/header-settings.php:503
+msgid "Avatar Text Color"
+msgstr ""
+
+#: inc/theme-options/page-options.php:145
+#: inc/theme-options/sections/header-settings.php:220
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: inc/theme-options/page-options.php:146
+#: inc/theme-options/page-options.php:233
+#: inc/theme-options/page-options.php:341
+#: inc/theme-options/sections/footer-settings.php:106
+#: inc/theme-options/sections/general-settings.php:81
+#: inc/theme-options/sections/general-settings.php:92
+#: inc/theme-options/sections/header-settings.php:221
+#: inc/theme-options/sections/header-settings.php:315
+#: inc/theme-options/sections/header-settings.php:353
+#: inc/theme-options/sections/pages-settings.php:24
+#: inc/theme-options/sections/pages-settings.php:124
+#: inc/theme-options/sections/pages-settings.php:236
+#: inc/theme-options/sections/pages-settings.php:283
+msgid "Enabled"
+msgstr ""
+
+#: inc/theme-options/page-options.php:147
+#: inc/theme-options/page-options.php:234
+#: inc/theme-options/page-options.php:342
+#: inc/theme-options/sections/footer-settings.php:107
+#: inc/theme-options/sections/general-settings.php:82
+#: inc/theme-options/sections/general-settings.php:93
+#: inc/theme-options/sections/header-settings.php:222
+#: inc/theme-options/sections/header-settings.php:316
+#: inc/theme-options/sections/header-settings.php:354
+#: inc/theme-options/sections/pages-settings.php:25
+#: inc/theme-options/sections/pages-settings.php:125
+#: inc/theme-options/sections/pages-settings.php:237
+#: inc/theme-options/sections/pages-settings.php:284
+msgid "Disabled"
+msgstr ""
+
+#: inc/theme-options/page-options.php:157
+msgid "Upload Sticky Logo"
+msgstr ""
+
+#: inc/theme-options/page-options.php:165
+msgid "Sticky Header Avatar Text Color"
+msgstr ""
+
+#: inc/theme-options/page-options.php:173
+#: inc/theme-options/sections/pages-settings.php:168
+msgid "Page Padding Top"
+msgstr ""
+
+#: inc/theme-options/page-options.php:183
+msgid "Pag Padding Bottom"
+msgstr ""
+
+#: inc/theme-options/page-options.php:193
+#: inc/theme-options/page-options.php:194
+msgid "Select Footer"
+msgstr ""
+
+#: inc/theme-options/page-options.php:202
+msgid "Background Color: Only for default page template"
+msgstr ""
+
+#: inc/theme-options/page-options.php:209 inc/widgets/blog-grid.php:666
+#: inc/widgets/blog-grid.php:909 inc/widgets/info-box.php:684
+#: inc/widgets/info-box.php:776 inc/widgets/info-box.php:1045
+#: inc/widgets/info-box.php:1133 inc/widgets/pricing-table.php:348
+#: inc/widgets/pricing-table.php:391 inc/widgets/pricing-table.php:714
+#: inc/widgets/pricing-table.php:840 inc/widgets/pricing-table.php:877
+#: inc/widgets/pricing-table.php:973 inc/widgets/pricing-table.php:1120
+#: inc/widgets/pricing-table.php:1208 inc/widgets/team.php:529
+#: inc/widgets/text-image.php:361 inc/widgets/text-image.php:404
+#: inc/widgets/text-image.php:779 inc/widgets/text-image.php:867
+#: inc/widgets/text-image.php:1014 inc/widgets/text-image.php:1102
+msgid "Background Color"
+msgstr ""
+
+#: inc/theme-options/page-options.php:219
+msgid "Page Title Settings"
+msgstr ""
+
+#: inc/theme-options/page-options.php:225
+msgid "Page Title Settings: Only for default page template"
+msgstr ""
+
+#: inc/theme-options/page-options.php:232
+#: inc/theme-options/sections/pages-settings.php:23
+msgid "Enable Page Title"
+msgstr ""
+
+#: inc/theme-options/page-options.php:244
+msgid "Page Title Text"
+msgstr ""
+
+#: inc/theme-options/page-options.php:252
+#: inc/theme-options/sections/pages-settings.php:35
+msgid "Page Title Background"
+msgstr ""
+
+#: inc/theme-options/page-options.php:270
+#: inc/theme-options/sections/pages-settings.php:53
+#: inc/theme-options/sections/pages-settings.php:310
+msgid "Page Title Typography"
+msgstr ""
+
+#: inc/theme-options/page-options.php:292
+#: inc/theme-options/sections/pages-settings.php:75
+msgid "Page Title Padding Top"
+msgstr ""
+
+#: inc/theme-options/page-options.php:304
+#: inc/theme-options/sections/pages-settings.php:87
+msgid "Page Title Padding Bottom"
+msgstr ""
+
+#: inc/theme-options/page-options.php:316
+#: inc/theme-options/sections/pages-settings.php:99
+msgid "Page Title Margin Top"
+msgstr ""
+
+#: inc/theme-options/page-options.php:328
+#: inc/theme-options/sections/pages-settings.php:111
+msgid "Page Title Margin Bottom"
+msgstr ""
+
+#: inc/theme-options/page-options.php:340
+#: inc/theme-options/sections/pages-settings.php:123
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/theme-options/page-options.php:355
+#: inc/theme-options/sections/pages-settings.php:138
+msgid "Breadcrumb Typography"
+msgstr ""
+
+#: inc/theme-options/sections/footer-settings.php:39
+msgid "Footer"
+msgstr ""
+
+#: inc/theme-options/sections/footer-settings.php:46
+msgid "Select Site Footer"
+msgstr ""
+
+#: inc/theme-options/sections/footer-settings.php:55
+msgid "Only the Classic Footer will be affected by the following options."
+msgstr ""
+
+#: inc/theme-options/sections/footer-settings.php:61
+msgid "Number of Columns Show in Footer"
+msgstr ""
+
+#: inc/theme-options/sections/footer-settings.php:63
+msgid "1 Column"
+msgstr ""
+
+#: inc/theme-options/sections/footer-settings.php:64
+msgid "2 Column"
+msgstr ""
+
+#: inc/theme-options/sections/footer-settings.php:65
+msgid "3 Column"
+msgstr ""
+
+#: inc/theme-options/sections/footer-settings.php:66
+msgid "4 Column"
+msgstr ""
+
+#: inc/theme-options/sections/footer-settings.php:75
+msgid "Footer Width"
+msgstr ""
+
+#: inc/theme-options/sections/footer-settings.php:77
+#: inc/theme-options/sections/header-settings.php:92
+msgid "Boxed"
+msgstr ""
+
+#: inc/theme-options/sections/footer-settings.php:78
+#: inc/theme-options/sections/header-settings.php:93
+msgid "Full Width"
+msgstr ""
+
+#: inc/theme-options/sections/footer-settings.php:88
+msgid "Footer Background"
+msgstr ""
+
+#: inc/theme-options/sections/footer-settings.php:105
+msgid "Enable Footer Bottom"
+msgstr ""
+
+#: inc/theme-options/sections/footer-settings.php:116
+msgid "Footer Bottom Background"
+msgstr ""
+
+#: inc/theme-options/sections/footer-settings.php:126
+msgid "Footer Bottom Textarea"
+msgstr ""
+
+#: inc/theme-options/sections/footer-settings.php:128
+msgid "Copyright © All rights reserved - Luxus"
+msgstr ""
+
+#: inc/theme-options/sections/general-settings.php:70
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/theme-options/sections/general-settings.php:80
+msgid "Enable Back To Top"
+msgstr ""
+
+#: inc/theme-options/sections/general-settings.php:91
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/theme-options/sections/general-settings.php:102
+msgid "Preloader Background Color"
+msgstr ""
+
+#: inc/theme-options/sections/general-settings.php:112
+msgid "Upload Preloader Icon"
+msgstr ""
+
+#: inc/theme-options/sections/general-settings.php:119
+msgid "Signup Page Slug"
+msgstr ""
+
+#: inc/theme-options/sections/general-settings.php:127
+msgid "Google Map API"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:40
+msgid "Header Settings"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:48
+msgid "Header"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:55
+msgid "Select Site Header"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:64
+#: inc/theme-options/sections/header-settings.php:465
+msgid "Only the Classic Header will be affected by the following options."
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:71
+msgid "Upload Brand Logo"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:78
+#: inc/theme-options/sections/header-settings.php:472
+msgid "Logo Width"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:90
+msgid "Header Width"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:103
+#: inc/theme-options/sections/header-settings.php:483
+msgid "Header Line Height"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:129
+msgid "Main Menu Position"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:142
+msgid "Main Menu Font"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:163
+#: inc/widgets/nav-menu.php:225 inc/widgets/nav-menu.php:274
+#: inc/widgets/nav-menu.php:383 inc/widgets/nav-menu.php:450
+msgid "Main Menu Color"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:171
+#: inc/widgets/nav-menu.php:238 inc/widgets/nav-menu.php:289
+#: inc/widgets/nav-menu.php:398 inc/widgets/nav-menu.php:466
+msgid "Sub Menu Color"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:187
+#: inc/widgets/nav-menu.php:201 inc/widgets/nav-menu.php:347
+msgid "Sub Menu Background"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:196
+#: inc/widgets/nav-menu.php:251 inc/widgets/nav-menu.php:303
+msgid "Sub Menu Links Background"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:205
+msgid "Sub Menu Links Hover Background"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:232
+msgid "Upload Sticky Header Logo"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:241
+msgid "Sticky Header Background Color"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:250
+msgid "Sticky Header Menu Color"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:263
+msgid "Sticky Header Sub Menu Color"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:272
+msgid "Sticky Active Menu Color"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:281
+msgid "Sticky Sub Menu Background"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:290
+msgid "Sticky Sub Menu Links Background"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:300
+msgid "Sticky Sub Menu Links Hover Background"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:314
+msgid "Enable User Avatar"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:325
+msgid "User Avatar Text"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:334
+msgid "User Avatar Text Color"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:343
+msgid "Sticky User Avatar Text Color"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:352
+msgid "Enable Right Button"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:363
+msgid "Right Button Text"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:364
+msgid "Get Started"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:372
+msgid "Right Button Link"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:381
+msgid "Right Button Text Color"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:390
+msgid "Right Button Border"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:403
+msgid "Right Button Hover Border"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:416
+msgid "Right Button Border Radius"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:428
+msgid "Right Button Background"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:437
+msgid "Right Button Hover Background"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:449
+msgid "Mobile Header"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:456
+msgid "Mobile Header Breakpoint"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:457
+msgid "Only Number eg:1200"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:512
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:521
+msgid "Breadcrumb Hover Color"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:530
+msgid "Menu Font"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:550
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:559
+msgid "Menu Active Color"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:568
+#: inc/widgets/nav-menu.php:411 inc/widgets/nav-menu.php:480
+msgid "Menu Icons Color"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:577
+msgid "Menu Icons Hover Color"
+msgstr ""
+
+#: inc/theme-options/sections/header-settings.php:586
+#: inc/widgets/nav-menu.php:334
+msgid "Menu Background"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:8
+msgid "Pages Setting"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:16
+msgid "Pages General Setting"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:159
+msgid "Default Page Background Color"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:179
+msgid "Page Padding Bottom"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:194
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:201
+msgid "Blog Page Background Color"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:210
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:222
+msgid "Post Columns"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:235
+msgid "Masonry Posts"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:246
+msgid "Post Style"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:248
+msgid "Style One"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:249
+msgid "Style Two"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:259
+msgid "Post Excerpt Length"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:266
+msgid "Blog Single Page Settings"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:273
+msgid "Blog Single Background Color"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:282
+msgid "Show Blog Single Sidebar"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:293
+msgid "Post Title Background"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:331
+msgid "Post Title Padding Top"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:342
+msgid "Post Title Padding Bottom"
+msgstr ""
+
+#: inc/theme-options/sections/pages-settings.php:353
+msgid "Search/Archive Page Background Color"
+msgstr ""
+
+#: inc/theme-options/sections/typography-settings.php:7
+#: inc/widgets/pricing-table.php:477
+msgid "Typography"
+msgstr ""
+
+#: inc/theme-options/sections/typography-settings.php:14
+msgid "Body Font"
+msgstr ""
+
+#: inc/theme-options/sections/typography-settings.php:35
+msgid "Heading 1"
+msgstr ""
+
+#: inc/theme-options/sections/typography-settings.php:56
+msgid "Heading 2"
+msgstr ""
+
+#: inc/theme-options/sections/typography-settings.php:77
+msgid "Heading 3"
+msgstr ""
+
+#: inc/theme-options/sections/typography-settings.php:98
+msgid "Heading 4"
+msgstr ""
+
+#: inc/theme-options/sections/typography-settings.php:119
+msgid "Heading 5"
+msgstr ""
+
+#: inc/theme-options/sections/typography-settings.php:140
+msgid "Heading 6"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:13
+msgid "Luxus - Theme Options"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:17
+msgid "Theme Options"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:37
+msgid "Blog Grid"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:123 inc/widgets/blog-grid.php:255
+#: inc/widgets/info-box.php:96 inc/widgets/nav-menu.php:115
+#: inc/widgets/pricing-table.php:99 inc/widgets/scroll-down.php:91
+#: inc/widgets/team.php:94 inc/widgets/text-image.php:97
+#: inc/widgets/user-login.php:91 inc/widgets/video-popup.php:109
+msgid "Layout"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:130
+msgid "Blog Style"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:134 inc/widgets/info-box.php:108
+#: inc/widgets/pricing-table.php:110 inc/widgets/team.php:106
+msgid "Style 1"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:135 inc/widgets/info-box.php:109
+#: inc/widgets/pricing-table.php:111 inc/widgets/team.php:107
+msgid "Style 2"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:136 inc/widgets/pricing-table.php:112
+msgid "Style 3"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:137
+msgid "Style 4"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:145
+msgid "Columns"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:167
+msgid "Posts Per Page"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:176
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:185
+msgid "Read More Text"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:187
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:201
+msgid "Query"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:209
+msgid "Categories"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:221
+msgid "Order By"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:225
+msgid "Date"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:226 inc/widgets/info-box.php:246
+#: inc/widgets/pricing-table.php:120 inc/widgets/pricing-table.php:182
+#: inc/widgets/team.php:115 inc/widgets/text-image.php:104
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:227
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:235
+msgid "Order"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:239
+msgid "ASC"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:240
+msgid "DESC"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:263
+msgid "Columns margin"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:284
+msgid "Rows margin"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:310
+msgid "Blog Item"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:318 inc/widgets/info-box.php:391
+#: inc/widgets/pricing-table.php:297 inc/widgets/text-image.php:310
+msgid "Border Size"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:331 inc/widgets/info-box.php:412
+#: inc/widgets/info-box.php:635 inc/widgets/info-box.php:727
+#: inc/widgets/info-box.php:998 inc/widgets/info-box.php:1086
+#: inc/widgets/pricing-table.php:317 inc/widgets/pricing-table.php:746
+#: inc/widgets/pricing-table.php:1073 inc/widgets/pricing-table.php:1161
+#: inc/widgets/team.php:579 inc/widgets/team.php:664
+#: inc/widgets/text-image.php:330 inc/widgets/text-image.php:732
+#: inc/widgets/text-image.php:820 inc/widgets/text-image.php:967
+#: inc/widgets/text-image.php:1055
+msgid "Border Radius"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:352
+msgid "Content Padding"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:388
+msgid "Bottom Bar Padding"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:410 inc/widgets/blog-grid.php:441
+#: inc/widgets/info-box.php:807 inc/widgets/pricing-table.php:535
+#: inc/widgets/team.php:307 inc/widgets/text-image.php:541
+msgid "Title Typography"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:458 inc/widgets/blog-grid.php:489
+#: inc/widgets/info-box.php:823 inc/widgets/text-image.php:556
+msgid "Description Typography"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:508 inc/widgets/info-box.php:435
+#: inc/widgets/info-box.php:606 inc/widgets/info-box.php:840
+#: inc/widgets/info-box.php:971 inc/widgets/nav-menu.php:217
+#: inc/widgets/nav-menu.php:362 inc/widgets/pricing-table.php:340
+#: inc/widgets/pricing-table.php:556 inc/widgets/pricing-table.php:819
+#: inc/widgets/pricing-table.php:930 inc/widgets/pricing-table.php:1046
+#: inc/widgets/team.php:452 inc/widgets/team.php:546
+#: inc/widgets/text-image.php:353 inc/widgets/text-image.php:573
+#: inc/widgets/text-image.php:705 inc/widgets/text-image.php:940
+#: inc/widgets/user-login.php:215 inc/widgets/video-popup.php:253
+msgid "Normal"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:516 inc/widgets/blog-grid.php:550
+#: inc/widgets/blog-grid.php:761 inc/widgets/blog-grid.php:795
+#: inc/widgets/info-box.php:848 inc/widgets/info-box.php:884
+#: inc/widgets/pricing-table.php:487 inc/widgets/pricing-table.php:564
+#: inc/widgets/pricing-table.php:610 inc/widgets/team.php:323
+#: inc/widgets/text-image.php:581 inc/widgets/text-image.php:617
+msgid "Title Color"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:564 inc/widgets/blog-grid.php:809
+#: inc/widgets/info-box.php:861 inc/widgets/info-box.php:897
+#: inc/widgets/team.php:352 inc/widgets/text-image.php:594
+#: inc/widgets/text-image.php:630
+msgid "Description Color"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:598 inc/widgets/blog-grid.php:843
+msgid "Link Color"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:633 inc/widgets/blog-grid.php:877
+msgid "Catagory Color"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:650 inc/widgets/blog-grid.php:893
+msgid "Catagory Background"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:701 inc/widgets/blog-grid.php:944
+#: inc/widgets/info-box.php:453 inc/widgets/info-box.php:493
+#: inc/widgets/info-box.php:657 inc/widgets/info-box.php:749
+#: inc/widgets/info-box.php:1019 inc/widgets/info-box.php:1107
+#: inc/widgets/pricing-table.php:361 inc/widgets/pricing-table.php:403
+#: inc/widgets/pricing-table.php:1094 inc/widgets/pricing-table.php:1182
+#: inc/widgets/text-image.php:374 inc/widgets/text-image.php:417
+#: inc/widgets/text-image.php:753 inc/widgets/text-image.php:841
+#: inc/widgets/text-image.php:988 inc/widgets/text-image.php:1076
+msgid "Border Color"
+msgstr ""
+
+#: inc/widgets/blog-grid.php:753 inc/widgets/info-box.php:475
+#: inc/widgets/info-box.php:699 inc/widgets/info-box.php:876
+#: inc/widgets/info-box.php:1059 inc/widgets/nav-menu.php:266
+#: inc/widgets/nav-menu.php:429 inc/widgets/pricing-table.php:383
+#: inc/widgets/pricing-table.php:602 inc/widgets/pricing-table.php:856
+#: inc/widgets/pricing-table.php:953 inc/widgets/pricing-table.php:1134
+#: inc/widgets/team.php:482 inc/widgets/team.php:631
+#: inc/widgets/text-image.php:396 inc/widgets/text-image.php:609
+#: inc/widgets/text-image.php:793 inc/widgets/text-image.php:1028
+#: inc/widgets/user-login.php:251 inc/widgets/video-popup.php:309
+msgid "Hover"
+msgstr ""
+
+#: inc/widgets/custom-css.php:39 inc/widgets/custom-css.php:56
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/widgets/custom-css.php:47
+msgid "Add your own custom CSS here"
+msgstr ""
+
+#: inc/widgets/info-box.php:37
+msgid "Info Box"
+msgstr ""
+
+#: inc/widgets/info-box.php:104
+msgid "Info Box Style"
+msgstr ""
+
+#: inc/widgets/info-box.php:117
+msgid "Show Icon"
+msgstr ""
+
+#: inc/widgets/info-box.php:119 inc/widgets/info-box.php:269
+#: inc/widgets/pricing-table.php:132 inc/widgets/pricing-table.php:211
+#: inc/widgets/team.php:148 inc/widgets/text-image.php:138
+#: inc/widgets/text-image.php:225
+msgid "Show"
+msgstr ""
+
+#: inc/widgets/info-box.php:120 inc/widgets/info-box.php:270
+#: inc/widgets/pricing-table.php:133 inc/widgets/pricing-table.php:212
+#: inc/widgets/team.php:149 inc/widgets/text-image.php:139
+#: inc/widgets/text-image.php:226
+msgid "Hide"
+msgstr ""
+
+#: inc/widgets/info-box.php:129
+msgid "Icon / Image Possition"
+msgstr ""
+
+#: inc/widgets/info-box.php:133 inc/widgets/info-box.php:334
+#: inc/widgets/nav-menu.php:161 inc/widgets/pricing-table.php:260
+#: inc/widgets/scroll-down.php:152 inc/widgets/text-image.php:273
+#: inc/widgets/user-login.php:162 inc/widgets/video-popup.php:200
+msgid "Left"
+msgstr ""
+
+#: inc/widgets/info-box.php:137 inc/widgets/info-box.php:338
+#: inc/widgets/nav-menu.php:165 inc/widgets/pricing-table.php:264
+#: inc/widgets/scroll-down.php:156 inc/widgets/text-image.php:277
+#: inc/widgets/user-login.php:166 inc/widgets/video-popup.php:204
+msgid "Center"
+msgstr ""
+
+#: inc/widgets/info-box.php:141 inc/widgets/info-box.php:342
+#: inc/widgets/nav-menu.php:169 inc/widgets/pricing-table.php:268
+#: inc/widgets/scroll-down.php:160 inc/widgets/text-image.php:281
+#: inc/widgets/user-login.php:170 inc/widgets/video-popup.php:208
+msgid "Right"
+msgstr ""
+
+#: inc/widgets/info-box.php:171 inc/widgets/text-image.php:148
+msgid "Image / Icon"
+msgstr ""
+
+#: inc/widgets/info-box.php:175 inc/widgets/text-image.php:152
+msgid "Image"
+msgstr ""
+
+#: inc/widgets/info-box.php:179 inc/widgets/info-box.php:219
+#: inc/widgets/team.php:160 inc/widgets/text-image.php:156
+#: inc/widgets/text-image.php:196
+msgid "Icon"
+msgstr ""
+
+#: inc/widgets/info-box.php:193 inc/widgets/team.php:135
+#: inc/widgets/text-image.php:125 inc/widgets/text-image.php:170
+msgid "Choose Image"
+msgstr ""
+
+#: inc/widgets/info-box.php:248 inc/widgets/text-image.php:106
+msgid "Default title"
+msgstr ""
+
+#: inc/widgets/info-box.php:249 inc/widgets/pricing-table.php:123
+#: inc/widgets/team.php:118 inc/widgets/text-image.php:107
+msgid "Type your title here"
+msgstr ""
+
+#: inc/widgets/info-box.php:256 inc/widgets/text-image.php:114
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/info-box.php:259 inc/widgets/text-image.php:117
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+msgstr ""
+
+#: inc/widgets/info-box.php:260 inc/widgets/pricing-table.php:173
+#: inc/widgets/text-image.php:118
+msgid "Type your description here"
+msgstr ""
+
+#: inc/widgets/info-box.php:267 inc/widgets/pricing-table.php:209
+#: inc/widgets/text-image.php:223
+msgid "Show Button"
+msgstr ""
+
+#: inc/widgets/info-box.php:279 inc/widgets/pricing-table.php:221
+#: inc/widgets/text-image.php:245
+msgid "Button Hover Animation"
+msgstr ""
+
+#: inc/widgets/info-box.php:288 inc/widgets/pricing-table.php:230
+#: inc/widgets/text-image.php:235
+msgid "Button Text"
+msgstr ""
+
+#: inc/widgets/info-box.php:290 inc/widgets/text-image.php:237
+msgid "Learn More"
+msgstr ""
+
+#: inc/widgets/info-box.php:298 inc/widgets/pricing-table.php:240
+msgid "Button Link"
+msgstr ""
+
+#: inc/widgets/info-box.php:300 inc/widgets/info-box.php:316
+#: inc/widgets/pricing-table.php:242 inc/widgets/team.php:244
+#: inc/widgets/team.php:284 inc/widgets/text-image.php:256
+#: inc/widgets/video-popup.php:119
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/widgets/info-box.php:314
+msgid "Info Box Link"
+msgstr ""
+
+#: inc/widgets/info-box.php:330 inc/widgets/pricing-table.php:256
+#: inc/widgets/text-image.php:269 inc/widgets/video-popup.php:196
+msgid "Alignment"
+msgstr ""
+
+#: inc/widgets/info-box.php:363 inc/widgets/pricing-table.php:289
+#: inc/widgets/text-image.php:302
+msgid "Box Style"
+msgstr ""
+
+#: inc/widgets/info-box.php:371 inc/widgets/pricing-table.php:455
+#: inc/widgets/pricing-table.php:514 inc/widgets/pricing-table.php:664
+#: inc/widgets/pricing-table.php:796 inc/widgets/pricing-table.php:907
+#: inc/widgets/pricing-table.php:1023 inc/widgets/text-image.php:520
+msgid "Padding"
+msgstr ""
+
+#: inc/widgets/info-box.php:443 inc/widgets/info-box.php:483
+#: inc/widgets/pricing-table.php:590 inc/widgets/pricing-table.php:636
+#: inc/widgets/team.php:615 inc/widgets/team.php:700
+msgid "Background"
+msgstr ""
+
+#: inc/widgets/info-box.php:522
+msgid "Icon / Image Style"
+msgstr ""
+
+#: inc/widgets/info-box.php:531 inc/widgets/pricing-table.php:1003
+msgid "Margin"
+msgstr ""
+
+#: inc/widgets/info-box.php:551
+msgid "Icon / Image Padding"
+msgstr ""
+
+#: inc/widgets/info-box.php:572 inc/widgets/pricing-table.php:726
+#: inc/widgets/text-image.php:681
+msgid "Icon Size"
+msgstr ""
+
+#: inc/widgets/info-box.php:613 inc/widgets/info-box.php:706
+#: inc/widgets/info-box.php:978 inc/widgets/info-box.php:1066
+#: inc/widgets/pricing-table.php:1053 inc/widgets/pricing-table.php:1141
+#: inc/widgets/team.php:554 inc/widgets/team.php:639
+#: inc/widgets/text-image.php:712 inc/widgets/text-image.php:800
+#: inc/widgets/text-image.php:947 inc/widgets/text-image.php:1035
+msgid "Border"
+msgstr ""
+
+#: inc/widgets/info-box.php:671 inc/widgets/info-box.php:763
+#: inc/widgets/pricing-table.php:687 inc/widgets/pricing-table.php:700
+#: inc/widgets/team.php:601 inc/widgets/team.php:686
+#: inc/widgets/text-image.php:766 inc/widgets/text-image.php:854
+msgid "Icon Color"
+msgstr ""
+
+#: inc/widgets/info-box.php:798 inc/widgets/text-image.php:512
+msgid "Content Style"
+msgstr ""
+
+#: inc/widgets/info-box.php:919 inc/widgets/pricing-table.php:994
+#: inc/widgets/text-image.php:888 inc/widgets/video-popup.php:229
+msgid "Button Style"
+msgstr ""
+
+#: inc/widgets/info-box.php:928 inc/widgets/text-image.php:897
+msgid "Button Margin"
+msgstr ""
+
+#: inc/widgets/info-box.php:948 inc/widgets/text-image.php:917
+msgid "Button Padding"
+msgstr ""
+
+#: inc/widgets/nav-menu.php:37
+msgid "Nav Menu"
+msgstr ""
+
+#: inc/widgets/nav-menu.php:123
+msgid "Select Nav Menu"
+msgstr ""
+
+#: inc/widgets/nav-menu.php:127
+#, php-format
+msgid ""
+"Menus not found. Please visit %sAppearance > Menus%s page to create new menu."
+msgstr ""
+
+#: inc/widgets/nav-menu.php:127
+msgid "Select menu to display."
+msgstr ""
+
+#: inc/widgets/nav-menu.php:134 inc/widgets/user-login.php:135
+msgid "Line Height"
+msgstr ""
+
+#: inc/widgets/nav-menu.php:157
+msgid "Menu Alignment"
+msgstr ""
+
+#: inc/widgets/nav-menu.php:192
+msgid "Desktop Menu Style"
+msgstr ""
+
+#: inc/widgets/nav-menu.php:325
+msgid "Mobile Menu Style"
+msgstr ""
+
+#: inc/widgets/nav-menu.php:370 inc/widgets/nav-menu.php:437
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:37
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:106
+msgid "Pricing Style"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:122
+msgid "Premium"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:130 inc/widgets/text-image.php:136
+msgid "Show Badge"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:157
+msgid "Badge Icon"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:170
+msgid "Price"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:172
+msgid "$99 / Yearly"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:184
+msgid "Features List Title"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:192
+msgid "Features List"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:197
+msgid "Title #1"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:232
+msgid "Subscribe Now"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:432
+msgid "Title Style"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:505
+msgid "Header Style"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:544
+msgid "Price Typography"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:577 inc/widgets/pricing-table.php:623
+msgid "Price Color"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:655 inc/widgets/text-image.php:652
+msgid "Badge Style"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:773
+msgid "Price Area Style"
+msgstr ""
+
+#: inc/widgets/pricing-table.php:899
+msgid "Features List Style"
+msgstr ""
+
+#: inc/widgets/scroll-down.php:37
+msgid "Scroll Down Button"
+msgstr ""
+
+#: inc/widgets/scroll-down.php:99
+msgid "Target ID"
+msgstr ""
+
+#: inc/widgets/scroll-down.php:101
+msgid "#"
+msgstr ""
+
+#: inc/widgets/scroll-down.php:102
+msgid "Target ID (eg: #about)"
+msgstr ""
+
+#: inc/widgets/scroll-down.php:110
+msgid "Mouse Color"
+msgstr ""
+
+#: inc/widgets/scroll-down.php:123
+msgid "Wheel Color"
+msgstr ""
+
+#: inc/widgets/scroll-down.php:136
+msgid "Arrows Color"
+msgstr ""
+
+#: inc/widgets/scroll-down.php:148 inc/widgets/user-login.php:158
+msgid "Avatar Alignment"
+msgstr ""
+
+#: inc/widgets/team.php:37
+msgid "Team Box"
+msgstr ""
+
+#: inc/widgets/team.php:102 inc/widgets/team.php:298
+msgid "Team Style"
+msgstr ""
+
+#: inc/widgets/team.php:117
+msgid "John Doe"
+msgstr ""
+
+#: inc/widgets/team.php:125
+msgid "Designation"
+msgstr ""
+
+#: inc/widgets/team.php:127
+msgid "CEO"
+msgstr ""
+
+#: inc/widgets/team.php:128
+msgid "Type your Designation here"
+msgstr ""
+
+#: inc/widgets/team.php:146
+msgid "Show Social Icons"
+msgstr ""
+
+#: inc/widgets/team.php:236 inc/widgets/team.php:282
+#: inc/widgets/text-image.php:254
+msgid "Link"
+msgstr ""
+
+#: inc/widgets/team.php:251
+msgid "Social Icons"
+msgstr ""
+
+#: inc/widgets/team.php:336
+msgid "Designation Typography"
+msgstr ""
+
+#: inc/widgets/team.php:365
+msgid "Title Area Background"
+msgstr ""
+
+#: inc/widgets/team.php:421
+msgid "Image Radius"
+msgstr ""
+
+#: inc/widgets/team.php:460 inc/widgets/team.php:470 inc/widgets/team.php:490
+#: inc/widgets/team.php:500
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/widgets/team.php:519
+msgid "Social Icons Style"
+msgstr ""
+
+#: inc/widgets/text-image.php:37
+msgid "Text With Image"
+msgstr ""
+
+#: inc/widgets/text-image.php:447
+msgid "Image Style"
+msgstr ""
+
+#: inc/widgets/text-image.php:455
+msgid "Image Height"
+msgstr ""
+
+#: inc/widgets/text-image.php:476 inc/widgets/text-image.php:486
+msgid "Image Overlay"
+msgstr ""
+
+#: inc/widgets/text-image.php:661
+msgid "Badge Padding"
+msgstr ""
+
+#: inc/widgets/user-login.php:37
+msgid "User Avatar"
+msgstr ""
+
+#: inc/widgets/user-login.php:99
+msgid "User Login Text"
+msgstr ""
+
+#: inc/widgets/user-login.php:102
+msgid "User login text here"
+msgstr ""
+
+#: inc/widgets/user-login.php:110
+msgid "User Login Text Color"
+msgstr ""
+
+#: inc/widgets/user-login.php:123
+msgid "User Login Hover Text Color"
+msgstr ""
+
+#: inc/widgets/user-login.php:186
+msgid "Dropdown Background"
+msgstr ""
+
+#: inc/widgets/user-login.php:200
+msgid "User Name Color"
+msgstr ""
+
+#: inc/widgets/user-login.php:223 inc/widgets/user-login.php:259
+msgid "Links Color"
+msgstr ""
+
+#: inc/widgets/user-login.php:236 inc/widgets/user-login.php:272
+msgid "Links Bsvkground Color"
+msgstr ""
+
+#: inc/widgets/user-login.php:340 template-parts/header/header-classic.php:103
+msgid "Dashboard"
+msgstr ""
+
+#: inc/widgets/user-login.php:343 template-parts/header/header-classic.php:106
+msgid "Profile settings"
+msgstr ""
+
+#: inc/widgets/user-login.php:346 template-parts/header/header-classic.php:109
+msgid "Logout"
+msgstr ""
+
+#: inc/widgets/video-popup.php:53
+msgid "Video Popup"
+msgstr ""
+
+#: inc/widgets/video-popup.php:117
+msgid "Youtube/Vimeo Video URL"
+msgstr ""
+
+#: inc/widgets/video-popup.php:130
+msgid "Show Pulse Animation"
+msgstr ""
+
+#: inc/widgets/video-popup.php:132
+msgid "Show Pulse"
+msgstr ""
+
+#: inc/widgets/video-popup.php:133
+msgid "Hide Pulse"
+msgstr ""
+
+#: inc/widgets/video-popup.php:142
+msgid "Button Width"
+msgstr ""
+
+#: inc/widgets/video-popup.php:168
+msgid "Button Height"
+msgstr ""
+
+#: inc/widgets/video-popup.php:238
+msgid "Pulse Animation Color"
+msgstr ""
+
+#: inc/widgets/video-popup.php:260 inc/widgets/video-popup.php:316
+msgid "Button Border Radius"
+msgstr ""
+
+#: inc/widgets/video-popup.php:281 inc/widgets/video-popup.php:337
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/widgets/video-popup.php:294 inc/widgets/video-popup.php:350
+msgid "Button Icon Color"
+msgstr ""
+
+#: inc/woocommerce-init.php:84
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/woocommerce-init.php:110
+msgid "Return to packages"
+msgstr ""
+
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single-post.php:88
+msgid "Related Posts"
+msgstr ""
+
+#: single-post.php:125
+msgid "Reviews"
+msgstr ""
+
+#: template-parts/blog/style-one.php:66 template-parts/blog/style-two.php:44
+msgid "Read more"
+msgstr ""
+
+#: template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:35 template-parts/content-none.php:44
+msgid "OOPS! NOTHING FOUND."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:46
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:13
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/footer/footer-classic.php:78
+msgid "&copy Copyright 2022. All Rights Reserved"
+msgstr ""
+
+#: template-parts/reviews.php:15
+msgid ""
+"This post is password protected. Enter the password to view the Reviews."
+msgstr ""
+
+#: template-parts/reviews.php:41
+msgid " at "
+msgstr ""
+
+#: template-parts/reviews.php:48
+msgid "Your Review is awaiting moderation."
+msgstr ""
+
+#: template-parts/reviews.php:60
+msgid "No Reviews"
+msgstr ""
+
+#: template-parts/reviews.php:60
+msgid "One Review"
+msgstr ""
+
+#: template-parts/reviews.php:60
+msgid "% Reviews"
+msgstr ""
+
+#: template-parts/reviews.php:70
+msgid "&larr; Older Reviews"
+msgstr ""
+
+#: template-parts/reviews.php:71
+msgid "Newer Reviews &rarr;"
+msgstr ""
+
+#: template-parts/reviews.php:86
+msgid "Leave a review for"
+msgstr ""
+
+#: template-parts/reviews.php:87
+msgid "Submit Review"
+msgstr ""
+
+#: template-parts/reviews.php:88
+msgid "Write a Review"
+msgstr ""
